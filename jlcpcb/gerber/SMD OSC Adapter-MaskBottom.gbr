@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
+%TF.CreationDate,2025-11-29T15:55:59+01:00*%
+%TF.ProjectId,SMD OSC Adapter,534d4420-4f53-4432-9041-646170746572,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2025-11-29 15:55:59*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.600000X1.600000*%
+%ADD11C,1.600000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,Y4*%
+X84153000Y-68927800D03*
+D11*
+X99393000Y-68927800D03*
+X99393000Y-61307800D03*
+X84153000Y-61307800D03*
+%TD*%
+M02*
